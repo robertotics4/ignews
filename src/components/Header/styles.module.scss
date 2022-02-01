@@ -32,7 +32,7 @@
         transition: color 0.2s;
       }
 
-      &:active {
+      &.active {
         color: var(--white);
         font-weight: bold;
       }
