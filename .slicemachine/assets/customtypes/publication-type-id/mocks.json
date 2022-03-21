@@ -1,0 +1,21 @@
+{
+  "id": "1c4e2126-2cfe-4f08-845b-3fe62b98e9a4",
+  "uid": "dolor-qui-odit",
+  "type": "publication-type-id",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Qui nulla in est.",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Nisi aliqua voluptate cillum amet sit commodo ad aute. Voluptate aliquip aliquip voluptate deserunt commodo labore dolor. Adipisicing officia cillum magna nulla incididunt deserunt nulla voluptate irure nostrud dolor.",
+        "spans": []
+      }
+    ]
+  }
+}
